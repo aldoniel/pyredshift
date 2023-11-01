@@ -11,3 +11,5 @@ It just a shell script quickly written for my own usage, but someone might find 
 
 (It will look like more gnome style on raspberry.)
 
+# See also
+The same in nim (faster) : https://github.com/aldoniel/nimredshift/
